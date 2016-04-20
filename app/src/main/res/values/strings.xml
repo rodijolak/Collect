@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DB test</string>
+
+    <string name="add_string">addd!</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_string">find</string>
+    <string name="delete_string">delete</string>
+</resources>
